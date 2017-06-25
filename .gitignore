@@ -1,0 +1,17 @@
+.DS_Store
+*~
+*.log
+*.js.meta
+.watchmanconfig
+
+index.vr.js
+*.json
+postinstall.js
+*.lock
+*.config.js
+
+node_modules/
+vr/index.html
+vr/client.js
+app
+__tests__
